@@ -87,3 +87,27 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Git
+# .gitignore
+
+# binaries
+*.pdf
+
+# LaTeX
+*.aux
+*.log
+*.dvi
+*db
+
+# ctags
+.ctags
+ctags
+
+# tmp files
+tmp*
+test*
+*~
+~*
+*swp
+
